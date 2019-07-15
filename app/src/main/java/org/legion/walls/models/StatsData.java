@@ -1,11 +1,11 @@
-package org.legion.walls.models;
+package org.aospextended.aexpapers.models;
 
 import android.content.Context;
 import android.os.SystemProperties;
 import android.telephony.TelephonyManager;
 import android.text.TextUtils;
 
-import org.legion.walls.Constants;
+import org.aospextended.aexpapers.Constants;
 
 /**
  * Created by ishubhamsingh on 25/9/17.

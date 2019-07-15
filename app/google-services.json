@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:75754735914:android:28b24918eaec3af3",
         "android_client_info": {
-          "package_name": "org.legion.walls"
+          "package_name": "org.aospextended.aexpapers"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "75754735914-9j74a0d1s8tan9e36kn3hcjv7gne40nj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "org.legion.walls",
+            "package_name": "org.aospextended.aexpapers",
             "certificate_hash": "c367a587eea33df697ec89e584b0b0b70079a3e7"
           }
         },

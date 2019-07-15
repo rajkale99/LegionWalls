@@ -1,4 +1,4 @@
-package org.legion.walls.activities;
+package org.aospextended.aexpapers.activities;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -15,7 +15,7 @@ import com.firebase.jobdispatcher.Job;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
-import org.legion.walls.R;
+import org.aospextended.aexpapers.R;
 
 /**
  * Created by ishubhamsingh on 5/24/17.

@@ -1,7 +1,7 @@
-package org.legion.walls;
+package org.aospextended.aexpapers;
 
-import org.legion.walls.models.ServerRequest;
-import org.legion.walls.models.ServerResponse;
+import org.aospextended.aexpapers.models.ServerRequest;
+import org.aospextended.aexpapers.models.ServerResponse;
 
 import io.reactivex.Observable;
 import retrofit2.http.Body;
