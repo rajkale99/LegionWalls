@@ -1,4 +1,4 @@
-package org.aospextended.aexpapers.activities;
+package org.legion.walls.activities;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,12 +11,12 @@ import com.dm.wallpaper.board.activities.WallpaperBoardActivity;
 import com.dm.wallpaper.board.activities.configurations.ActivityConfiguration;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
-import org.aospextended.aexpapers.Constants;
-import org.aospextended.aexpapers.RequestInterface;
-import org.aospextended.aexpapers.licenses.License;
-import org.aospextended.aexpapers.models.ServerRequest;
-import org.aospextended.aexpapers.models.ServerResponse;
-import org.aospextended.aexpapers.models.StatsData;
+import org.legion.walls.Constants;
+import org.legion.walls.RequestInterface;
+import org.legion.walls.licenses.License;
+import org.legion.walls.models.ServerRequest;
+import org.legion.walls.models.ServerResponse;
+import org.legion.walls.models.StatsData;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;

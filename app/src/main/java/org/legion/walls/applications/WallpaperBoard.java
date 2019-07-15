@@ -1,4 +1,4 @@
-package org.aospextended.aexpapers.applications;
+package org.legion.walls.applications;
 
 import android.support.annotation.NonNull;
 

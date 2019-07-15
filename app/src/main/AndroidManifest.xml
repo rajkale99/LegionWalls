@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:installLocation="auto"
-    package="org.aospextended.aexpapers">
+    package="org.legion.walls">
 
     <!-- If you are not using donation and premium request, you need to remove BILLING permission -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -23,7 +23,7 @@
         android:supportsRtl="false"
         android:theme="@style/AppTheme"
         tools:replace="android:icon,android:supportsRtl"
-        android:name="org.aospextended.aexpapers.applications.WallpaperBoard">
+        android:name="org.legion.walls.applications.WallpaperBoard">
 
         <!-- Set custom default icon. This is used when no icon is set for incoming notification messages.
  +     See README(https://goo.gl/l4GJaQ) for more. -->
@@ -37,7 +37,7 @@
         android:resource="@color/colorAccent" />
 
 
-        <activity android:name="org.aospextended.aexpapers.activities.SplashActivity"
+        <activity android:name="org.legion.walls.activities.SplashActivity"
             android:launchMode="singleTop"
             android:noHistory="true"
             android:screenOrientation="portrait"
@@ -49,7 +49,7 @@
         </activity>
 
         <activity
-            android:name="org.aospextended.aexpapers.activities.MainActivity"
+            android:name="org.legion.walls.activities.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/AppTheme"
             android:configChanges="orientation|keyboardHidden|screenSize">
@@ -64,13 +64,13 @@
 
         </activity>
 
-        <activity android:name="org.aospextended.aexpapers.activities.MuzeiActivity"
+        <activity android:name="org.legion.walls.activities.MuzeiActivity"
             android:label="@string/muzei_settings"
             android:theme="@style/AppTheme"
             android:exported="true"
             android:configChanges="orientation|keyboardHidden|screenSize"/>
 
-        <service android:name="org.aospextended.aexpapers.services.MuzeiService"
+        <service android:name="org.legion.walls.services.MuzeiService"
             android:label="@string/muzei_art_source_name"
             android:description="@string/muzei_art_source_desc"
             android:icon="@drawable/ic_muzei_logo"
@@ -80,7 +80,7 @@
             </intent-filter>
             <meta-data android:name="color" android:value="@color/muzei_color" />
             <meta-data android:name="settingsActivity"
-                android:value="org.aospextended.aexpapers.activities.MuzeiActivity"/>
+                android:value="org.legion.walls.activities.MuzeiActivity"/>
         </service>
 
         <!-- This is important -->

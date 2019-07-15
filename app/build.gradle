@@ -14,11 +14,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.aospextended.aexpapers"
+        applicationId "org.legion.walls"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 51
-        versionName "5.1"
+        versionCode 1
+        versionName "1.0"
         vectorDrawables.useSupportLibrary = true
     }
 
