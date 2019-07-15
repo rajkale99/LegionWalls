@@ -1,4 +1,4 @@
-package org.aospextended.aexpapers.models;
+package org.legion.walls.models;
 
 /**
  * Created by ishubhamsingh on 25/9/17.

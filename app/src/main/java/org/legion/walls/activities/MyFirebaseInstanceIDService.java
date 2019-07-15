@@ -1,4 +1,4 @@
-package org.aospextended.aexpapers.activities;
+package org.legion.walls.activities;
 
 import android.util.Log;
 
