@@ -1,9 +1,9 @@
-package org.legion.walls.activities;
+package org.aospextended.aexpapers.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.wallpaper.board.activities.WallpaperBoardMuzeiActivity;
-import org.legion.walls.services.MuzeiService;
+import org.aospextended.aexpapers.services.MuzeiService;
 
 public class MuzeiActivity extends WallpaperBoardMuzeiActivity {
 

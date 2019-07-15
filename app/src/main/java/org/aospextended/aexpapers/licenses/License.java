@@ -1,4 +1,4 @@
-package org.legion.walls.licenses;
+package org.aospextended.aexpapers.licenses;
 
 import com.dm.wallpaper.board.items.InAppBilling;
 

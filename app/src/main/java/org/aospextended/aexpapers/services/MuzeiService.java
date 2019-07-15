@@ -1,4 +1,4 @@
-package org.legion.walls.services;
+package org.aospextended.aexpapers.services;
 
 import com.dm.wallpaper.board.services.WallpaperBoardMuzeiService;
 

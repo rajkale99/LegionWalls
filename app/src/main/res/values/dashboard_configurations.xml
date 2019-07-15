@@ -9,7 +9,7 @@
 
     <!-- CONFIG: APPLICATION NAME -->
 
-    <string name="app_name">LegionWalls</string>
+    <string name="app_name">AEXPapers</string>
 
     <!-- CONFIG: DEFAULT THEME -->
 
@@ -19,7 +19,7 @@
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">LegionWalls</string>
+    <string name="muzei_art_source_name">AEXPapers</string>
 
     <!-- Muzei art source description -->
     <string name="muzei_art_source_desc">Walls branded for AospExtended ROM</string>
@@ -30,18 +30,18 @@
     <!-- CONFIG: TOOLBAR -->
 
     <!-- Toolbar title -->
-    <string name="toolbar_title">LegionWalls</string>
+    <string name="toolbar_title">AEXPapers</string>
 
     <!-- CONFIG: Wallpapers -->
 
     <!-- Wallpaper json link -->
-    <string name="wallpaper_json">https://raw.githubusercontent.com/rajkale99/LegionWalls_json/master/wallpaper_config.json</string>
+    <string name="wallpaper_json">https://raw.githubusercontent.com/ishubhamsingh/AEXPapers_json/master/wallpaper_config.json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
     <bool name="enable_wallpaper_download">true</bool>
 
-    <string name="splash_screen_title">Legion Walls</string>
+    <string name="splash_screen_title">AospExtended Papers</string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -56,7 +56,7 @@
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">LegionWalls</string>
+    <string name="navigation_view_header_title">AEXPapers</string>
 
     <!-- CONFIG: ABOUT -->
 
@@ -75,11 +75,11 @@
     <string name="about_profile_image">https://github.com/AospExtended/manifest/raw/7.1.1/aex_logo.png</string>
 
     <!-- About title above description -->
-    <string name="about_title">LegionWalls</string>
+    <string name="about_title">AEXPapers</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-         <b>A wallpaper app for consis of awesome walls.
+         <b>A wallpaper app for user contributed AospExtended branded walls.
         ]]></string>
 
     <!-- Social link inside about
@@ -91,7 +91,10 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>http://github.com/rajkale99</item>
+        <item>https://plus.google.com/communities/106726906578669931141</item>
+        <item>http://github.com/AospExtended</item>
+        <item>http://aospextended.imgur.com/</item>
+        <item>aospextended@gmail.com</item>
     </string-array>
 
     <!-- Contributors dialog

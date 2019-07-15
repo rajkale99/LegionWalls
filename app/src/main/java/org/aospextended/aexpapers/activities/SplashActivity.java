@@ -1,10 +1,10 @@
-package org.legion.walls.activities;
+package org.aospextended.aexpapers.activities;
 
 import android.support.annotation.NonNull;
 
 import com.dm.wallpaper.board.activities.WallpaperBoardSplashActivity;
 import com.dm.wallpaper.board.activities.configurations.SplashScreenConfiguration;
-import org.legion.walls.R;
+import org.aospextended.aexpapers.R;
 
 public class SplashActivity extends WallpaperBoardSplashActivity {
 
