@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "75754735914",
-    "firebase_url": "https://aexpapers.firebaseio.com",
-    "project_id": "aexpapers",
-    "storage_bucket": "aexpapers.appspot.com"
+    "firebase_url": "https://LegionWalls.firebaseio.com",
+    "project_id": "LegionWalls",
+    "storage_bucket": "LegionWalls.appspot.com"
   },
   "client": [
     {
